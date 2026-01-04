@@ -141,7 +141,7 @@ const Header = () => {
             <BookOpen className="text-white w-6 h-6" />
           </div>
           <span className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-white to-gray-400 tracking-tight">
-            STARTUP SURGE
+            Code of Survival : Startup Surge
           </span>
         </div>
 
@@ -306,7 +306,7 @@ const YoungInnovators = () => {
               </p>
               <div className="flex items-center gap-4">
                 <div className="w-12 h-12 rounded-full bg-slate-800 border-2 border-[#8B5CF6] overflow-hidden">
-                   <img src="https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&q=80&w=100" alt="Suraj" className="w-full h-full object-cover" />
+                   <img src="https://suraj-k-gupta-dev.github.io/Code-of-survival/IMG_20260104_210539.jpg?auto=format&fit=crop&q=80&w=100" alt="Suraj" className="w-full h-full object-cover" />
                 </div>
                 <div>
                   <p className="text-white font-bold">Suraj Kumar Gupta</p>
