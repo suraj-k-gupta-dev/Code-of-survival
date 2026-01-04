@@ -456,7 +456,7 @@ const AuthorSection = () => {
           >
             <div className="w-full aspect-square rounded-[40px_10px_40px_10px] bg-gradient-to-tr from-[#8B5CF6] via-[#D946EF] to-[#06B6D4] p-1 shadow-2xl overflow-hidden">
                <div className="w-full h-full bg-slate-900 rounded-[38px_8px_38px_8px] overflow-hidden">
-                 <img src="https://images.unsplash.com/photo-1519085185758-29178f0d9ef6?auto=format&fit=crop&q=80&w=800" alt="Suraj Kumar Gupta" className="w-full h-full object-cover" />
+                 <img src="https://suraj-k-gupta-dev.github.io/Code-of-survival/IMG_20260104_210539.jpg?auto=format&fit=crop&q=80&w=800" alt="Suraj Kumar Gupta" className="w-full h-full object-cover" />
                </div>
             </div>
             {/* Stats Card Overlay */}
