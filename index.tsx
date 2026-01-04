@@ -302,7 +302,8 @@ const YoungInnovators = () => {
 
             <div className="bg-gradient-to-br from-[#8B5CF6]/20 to-transparent p-6 rounded-2xl border border-[#8B5CF6]/20">
               <p className="text-white italic text-lg mb-4">
-                "Technology reconnects us... through the shared stories it enables. We must build for trust, not just for clicks."
+                "Technology reconnects us not simply through circuits and code, but through the shared stories it enables moments when neighbors discover one another’s hopes and dreams, small shops find new life, and communities remember that true progress blossoms where human hearts and innovation meet.
+                In every line of code lies the potential to bridge divides, honor cultures, and weave together the tapestry of our common future…"
               </p>
               <div className="flex items-center gap-4">
                 <div className="w-12 h-12 rounded-full bg-slate-800 border-2 border-[#8B5CF6] overflow-hidden">
