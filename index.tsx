@@ -35,28 +35,28 @@ const characters: Character[] = [
     name: "Sue Chan",
     role: "The Visionary Coder",
     description: "A brilliant 17-year-old coder who believes technology should empower people, not just harvest their data. She is the architect of the survival code.",
-    image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=400",
+    image: "https://suraj-k-gupta-dev.github.io/Code-of-survival/generated-image%20(13).png?auto=format&fit=crop&q=80&w=400",
     gradient: "from-[#8B5CF6] to-[#D946EF]"
   },
   {
-    name: "Clara",
+    name: "Clara Schneider",
     role: "The Community Bridge",
     description: "Sue's close ally who understands the human pulse of Riverside. She ensures that technology serves the most vulnerable members of society.",
-    image: "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&q=80&w=400",
+    image: "https://suraj-k-gupta-dev.github.io/Code-of-survival/generated-image%20(9).png?auto=format&fit=crop&q=80&w=400",
     gradient: "from-[#D946EF] to-[#06B6D4]"
   },
   {
-    name: "Leo",
+    name: "Leo Lace",
     role: "The Strategy Architect",
     description: "A tactical thinker who balances the group's idealistic vision with the hard realities of a tech-dominated world.",
-    image: "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&q=80&w=400",
+    image: "https://suraj-k-gupta-dev.github.io/Code-of-survival/generated-image%20(10).png?auto=format&fit=crop&q=80&w=400",
     gradient: "from-[#06B6D4] to-[#8B5CF6]"
   },
   {
     name: "Erik Lindqvist",
     role: "The Tech Titan (Antagonist)",
     description: "The architect of the convenience-first world where privacy is a relic. He represents the ethical decay Sue fights against.",
-    image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=400",
+    image: "https://suraj-k-gupta-dev.github.io/Code-of-survival/generated-image%20(12).png?auto=format&fit=crop&q=80&w=400",
     gradient: "from-slate-700 to-slate-900"
   }
 ];
